@@ -1,0 +1,11 @@
+.idea/
+./project/
+target/
+*.class
+*.log
+*.tgf
+src/main/resources/gitlabConfig.yaml
+src/main/resources/mongoConfig.yaml
+src/main/resources/projectConfig.yaml
+src/main/resources/restConfig.yaml
+bugs.json

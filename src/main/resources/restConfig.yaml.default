@@ -1,0 +1,5 @@
+restMap:
+  classKey: "tag"
+subResourceSlashesThreshold: 0
+subResourceTag: ""
+resourceTag: ""
